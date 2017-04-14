@@ -4,10 +4,6 @@ Flume Netty Http Source
 Flume-ng Netty Http Source.
 This is another Flume Http Source write by netty, it receives request with HTTP protocol. 
 
-
-![image](https://github.com/josealvarezmuguerza/flume-http-sink/raw/master/image.png)
-
-
 Source Configuration
 ===============
 In flume-conf.properties:
